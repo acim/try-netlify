@@ -1,1 +1,3 @@
 # Try Netlify
+
+netlify init
