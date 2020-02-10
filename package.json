@@ -1,0 +1,20 @@
+{
+  "name": "try-netlify",
+  "version": "1.0.0",
+  "description": "netlify init netlify functions:create --name send-email",
+  "main": "send_email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acim/try-netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acim/try-netlify/issues"
+  },
+  "homepage": "https://github.com/acim/try-netlify#readme"
+}
